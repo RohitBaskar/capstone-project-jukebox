@@ -13,4 +13,9 @@ public class Song {
     private String genre;
     private String albumName;
     private long songDuration;
+
+    public Song() {
+    }
+
+
 }
