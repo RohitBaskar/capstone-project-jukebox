@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eb271a5-2479-4b26-b9fd-c1ec62a9bb35" name="Changes" comment="created PlayList.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/service/DatabaseService.java" afterDir="false" />
+    <list default="true" id="6eb271a5-2479-4b26-b9fd-c1ec62a9bb35" name="Changes" comment="created SongRepository.java class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/model/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/model/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663674172507</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created DatabaseService.java class">
+      <created>1663675273612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663675273612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="created PlaylistRepository.java class">
+      <created>1663675375387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663675375387</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created SongRepository.java class">
+      <created>1663675406592</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663675406592</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +129,10 @@
     <MESSAGE value="added mysql dependency" />
     <MESSAGE value="created Song.java class" />
     <MESSAGE value="created PlayList.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created PlayList.java class" />
+    <MESSAGE value="created DatabaseService.java class" />
+    <MESSAGE value="created PlaylistRepository.java class" />
+    <MESSAGE value="created SongRepository.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created SongRepository.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
