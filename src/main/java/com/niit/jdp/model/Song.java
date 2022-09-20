@@ -26,5 +26,51 @@ public class Song {
         this.songDuration = songDuration;
     }
 
+    public String getSongName() {
+        return songName;
+    }
 
+    public void setSongName(String songName) {
+        this.songName = songName;
+    }
+
+    public int getSongId() {
+        return songId;
+    }
+
+    public void setSongId(int songId) {
+        this.songId = songId;
+    }
+
+    public String getArtistName() {
+        return artistName;
+    }
+
+    public void setArtistName(String artistName) {
+        this.artistName = artistName;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public void setGenre(String genre) {
+        this.genre = genre;
+    }
+
+    public String getAlbumName() {
+        return albumName;
+    }
+
+    public void setAlbumName(String albumName) {
+        this.albumName = albumName;
+    }
+
+    public long getSongDuration() {
+        return songDuration;
+    }
+
+    public void setSongDuration(long songDuration) {
+        this.songDuration = songDuration;
+    }
 }
